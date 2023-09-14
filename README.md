@@ -1,2 +1,2 @@
-# zli-api-01-23-24
-Gemeinsames Repository API-01
+# zli-api2-web
+Gemeinsames Repository API-02
